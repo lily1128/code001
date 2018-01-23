@@ -1,0 +1,16 @@
+DB61B System.  Version 2.0.
+> Loaded students.db
+> Loaded enrolled.db
+> Loaded schedule.db
+> > ...Search results:
+  105 Shana
+> > ......Search results:
+  Valerie Chan A
+  Yangfan Chan A
+> > > .........> > Search results:
+  Jason Knowles
+  Shana Brown
+  Thomas Armstrong
+  Valerie Chan
+  Yangfan Chan
+> 
